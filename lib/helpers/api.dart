@@ -1,7 +1,7 @@
 class BaseUrl {
-  static String tambah = "http://192.168.100.40/tokofanin/create.php";
-  static String lihat = "http://192.168.100.40/tokofanin/details.php";
-  static String edit = "http://192.168.100.40/tokofanin/update.php";
-  static String hapus = "http://192.168.100.40/tokofanin/delete.php";
-  static String data = "http://192.168.100.40/tokofanin/list.php";
+  static String tambah = "http://10.2.17.244/tokofanin/create.php";
+  static String lihat = "http://10.2.17.244/tokofanin/details.php";
+  static String edit = "http://10.2.17.244/tokofanin/update.php";
+  static String hapus = "http://10.2.17.244/tokofanin/delete.php";
+  static String data = "http://10.2.17.244/tokofanin/list.php";
 }
