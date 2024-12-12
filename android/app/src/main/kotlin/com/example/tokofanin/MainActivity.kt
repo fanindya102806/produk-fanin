@@ -1,0 +1,5 @@
+package com.example.tokofanin
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
